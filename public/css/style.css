@@ -1,0 +1,164 @@
+.string {
+    display: inline-flex;
+    width: 100%;
+}
+
+.radio {
+    display: inline-block;
+}
+
+.radio-label {
+    padding-left: 5px;
+}
+
+.button {
+    position: absolute;
+    left: 50%;
+    height: 7%;
+    width: 30%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transform: translate(-50%);
+    color: #fff;
+    background-color: #1b1e21;
+    border-color: #1b1e21;
+    font-size: 25px;
+}
+
+.swal-button, .swal-button:hover {
+    color: #fff !important;
+    background-color: #1b1e21 !important;
+    border-color: #1b1e21 !important;
+}
+
+.pick-sex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pick-pensioner {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title {
+    font-size: 45px;
+    padding-left: 30%;
+}
+
+.text-center {
+    font-size: 10px;
+}
+
+.menu-button {
+    text-decoration: none;
+    color: #1b1e21 !important;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #fff;
+    box-sizing: border-box;
+    border: 1px;
+    margin-right: 10px;
+}
+
+.menu-button:hover {
+    text-decoration: none;
+    color: #fff !important;
+    background-color: #4e555b;
+}
+
+input {
+    border-radius: 10px !important;
+}
+
+.error {
+    border-color: red;
+}
+
+.active {
+    background-color: #4e555b;
+    color: #fff !important;
+    box-shadow: none;
+}
+
+.form-margin {
+    margin-top: 50px;
+}
+
+.delete-select {
+    font-size: 30px;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+.empty {
+    font-size: 50px;
+    padding-top: 30%;
+    color: darkred;
+}
+
+.selected {
+    display: none;
+}
+
+.title-bank {
+    font-size: 45px;
+}
+
+.dynamic {
+    display: none;
+}
+
+.contract_number {
+    display: none;
+}
+
+.percent {
+    display: none;
+}
+
+.closing {
+    font-size: 25px;
+    padding: 5px 5px 5px 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.closing-div {
+    padding: 100px 270px 252px 461px;
+}
+
+terminal-block {
+    font-size: 20px;
+}
+
+.terminal {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    margin: 0 auto !important;
+    width: 800px;
+    height: 800px;
+}
+
+.true, .operations {
+    padding-top: 265px;
+    padding-left: 275px;
+}
+
+.terminal-text {
+    color: #fff !important;
+}
+
+.deposit-option {
+    display: none;
+}
+
+.credit-option {
+    display: none;
+}
+
+.sum {
+    display: none;
+}
