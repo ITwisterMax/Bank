@@ -23,7 +23,7 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
 
-	<link rel="icon" type="image/x-icon" href="{{ asset('/assets/icon.png')}}">
+	<link rel="icon" type="image/x-icon" href="{{ asset('/assets/icon.jpg')}}">
 </head>
 <body>
 <div id="app">
